@@ -1,0 +1,17 @@
+id: wraps-pollo-aguacate
+title: "Wraps de pollo y aguacate"
+tags: [rapido, saludable, pollo]
+time_minutes: 15
+servings: 2
+ingredients:
+  - "200 g pechuga de pollo cocida y desmenuzada"
+  - "1 aguacate maduro"
+  - "2 tortillas integrales"
+  - "Lechuga y tomate a gusto"
+  - "Sal y pimienta"
+steps:
+  - "Calentar las tortillas."
+  - "Triturar el aguacate con sal y pimienta."
+  - "Colocar pollo, aguacate, lechuga y tomate en la tortilla."
+  - "Enrollar y servir."
+description: "Perfecto para un almuerzo rápido y nutritivo."

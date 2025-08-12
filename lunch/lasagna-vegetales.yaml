@@ -1,0 +1,19 @@
+id: lasagna-vegetales
+title: "Lasaña de vegetales"
+tags: [vegetariano, horno]
+time_minutes: 60
+servings: 4
+ingredients:
+  - "12 láminas de pasta para lasaña"
+  - "2 zucchinis"
+  - "1 berenjena"
+  - "2 zanahorias"
+  - "500 g salsa de tomate"
+  - "250 g queso mozzarella"
+  - "Aceite de oliva, sal y pimienta"
+steps:
+  - "Cortar los vegetales en láminas y saltear."
+  - "Hervir las láminas de pasta."
+  - "En una fuente, intercalar capas de pasta, vegetales y salsa."
+  - "Cubrir con queso y hornear a 180°C por 25 min."
+description: "Cena reconfortante con vegetales frescos y queso fundido."
