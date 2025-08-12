@@ -1,0 +1,19 @@
+id: tacos-rapidos-ternera
+title: "Tacos rápidos de ternera"
+tags:
+  - rapido
+  - carne
+time_minutes: 20
+servings: 2
+ingredients:
+  - 250 g carne picada de ternera
+  - 1 cdita comino y 1 cdita pimentón
+  - 1/2 cebolla picada
+  - 4 tortillas
+  - Salsa, tomate y lechuga a gusto
+  - Sal y aceite
+steps:
+  - Saltear cebolla y carne con especias; salar.
+  - Calentar tortillas.
+  - Rellenar y servir con verduras y salsa.
+description: "Tex-mex express."
