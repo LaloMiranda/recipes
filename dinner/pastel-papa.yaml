@@ -1,20 +1,30 @@
 id: pastel-papa-carne
 title: "Pastel de papa y carne"
-tags:
-  - horno
-  - carne
+tags: [horno, carne]
 time_minutes: 65
 servings: 4
 ingredients:
-  - 700 g papas
-  - 400 g carne picada
-  - 1 cebolla picada
-  - 50 ml leche y 30 g manteca
-  - 1 cda pimentón
-  - Sal, pimienta y aceite
+  - nombre: papa
+    cantidad: 700
+    unidad: g
+  - nombre: carne picada
+    cantidad: 400
+    unidad: g
+  - nombre: cebolla
+    cantidad: 1
+    unidad: unidad
+  - nombre: leche
+    cantidad: 50
+    unidad: ml
+  - nombre: manteca
+    cantidad: 30
+    unidad: g
+  - nombre: pimenton
+    cantidad: 1
+    unidad: cda
 steps:
-  - Hervir papas y hacer puré con leche y manteca.
-  - Saltear carne con cebolla, sal, pimienta y pimentón.
-  - Colocar carne en fuente y cubrir con puré.
+  - Hervir papas y hacer pure con leche y manteca.
+  - Saltear carne con cebolla, sal, pimienta y pimenton.
+  - Colocar carne en fuente y cubrir con pure.
   - Hornear a 200°C por 20–25 min.
 description: "Confort food total."

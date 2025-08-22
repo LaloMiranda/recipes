@@ -1,18 +1,26 @@
 id: pollo-horno-limon
-title: "Pollo al horno con limón y hierbas"
-tags:
-  - pollo
-  - horno
+title: "Pollo al horno con limon y hierbas"
+tags: [pollo, horno]
 time_minutes: 55
 servings: 4
 ingredients:
-  - 1.2 kg muslos de pollo
-  - 2 limones (jugo y rodajas)
-  - 2 cdas aceite de oliva
-  - 2 dientes de ajo picados
-  - Tomillo, sal y pimienta
+  - nombre: muslo de pollo
+    cantidad: 1.2
+    unidad: kg
+  - nombre: limon
+    cantidad: 2
+    unidad: unidad
+  - nombre: aceite de oliva
+    cantidad: 2
+    unidad: cda
+  - nombre: ajo
+    cantidad: 2
+    unidad: diente
+  - nombre: tomillo
+    cantidad: 1
+    unidad: pizca
 steps:
-  - Mezclar pollo con jugo de limón, aceite, ajo y hierbas.
-  - Disponer con rodajas de limón en fuente.
+  - Mezclar pollo con jugo de limon, aceite, ajo y hierbas.
+  - Disponer con rodajas de limon en fuente.
   - Hornear a 200°C por 45–50 min hasta dorar.
-description: "Jugoso y aromático."
+description: "Jugoso y aromatico."

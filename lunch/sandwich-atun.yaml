@@ -1,18 +1,26 @@
 id: sandwich-atun-clasico
-title: "Sándwich clásico de atún"
-tags:
-  - rapido
-  - pescado
+title: "Sandwich clasico de atun"
+tags: [rapido, pescado]
 time_minutes: 10
 servings: 2
 ingredients:
-  - 1 lata de atún escurrido
-  - 2 cdas mayonesa
-  - 1 cda jugo de limón
-  - 4 rebanadas de pan
-  - Hojas de lechuga
+  - nombre: atun
+    cantidad: 1
+    unidad: lata
+  - nombre: mayonesa
+    cantidad: 2
+    unidad: cda
+  - nombre: jugo de limon
+    cantidad: 1
+    unidad: cda
+  - nombre: pan
+    cantidad: 4
+    unidad: rebanada
+  - nombre: hoja de lechuga
+    cantidad: 1
+    unidad: puñado
 steps:
-  - Mezclar atún, mayonesa y limón.
-  - Armar sándwich con lechuga.
+  - Mezclar atun, mayonesa y limon.
+  - Armar sandwich con lechuga.
   - Servir.
 description: "Simple y rendidor."

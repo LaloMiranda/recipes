@@ -4,14 +4,24 @@ tags: [rapido, saludable, pollo]
 time_minutes: 15
 servings: 2
 ingredients:
-  - "200 g pechuga de pollo cocida y desmenuzada"
-  - "1 aguacate maduro"
-  - "2 tortillas integrales"
-  - "Lechuga y tomate a gusto"
-  - "Sal y pimienta"
+  - nombre: pechuga de pollo
+    cantidad: 200
+    unidad: g
+  - nombre: aguacate
+    cantidad: 1
+    unidad: unidad
+  - nombre: tortilla integral
+    cantidad: 2
+    unidad: unidad
+  - nombre: lechuga
+    cantidad: 1
+    unidad: pizca
+  - nombre: tomate
+    cantidad: 1
+    unidad: pizca
 steps:
   - "Calentar las tortillas."
   - "Triturar el aguacate con sal y pimienta."
   - "Colocar pollo, aguacate, lechuga y tomate en la tortilla."
   - "Enrollar y servir."
-description: "Perfecto para un almuerzo rápido y nutritivo."
+description: "Perfecto para un almuerzo rapido y nutritivo."

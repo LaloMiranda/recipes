@@ -1,19 +1,29 @@
 id: bowl-arroz-salmon-ahumado
-title: "Bowl de arroz con salmón ahumado"
-tags:
-  - rapido
-  - pescado
+title: "Bowl de arroz con salmon ahumado"
+tags: [rapido, pescado]
 time_minutes: 15
 servings: 2
 ingredients:
-  - 300 g arroz cocido (frío o tibio)
-  - 120 g salmón ahumado en tiras
-  - 1 palta en cubos
-  - 2 cdas salsa de soja
-  - 1 cdita aceite de sésamo
-  - Cebolla de verdeo picada
+  - nombre: arroz cocido
+    cantidad: 300
+    unidad: g
+  - nombre: salmon ahumado
+    cantidad: 120
+    unidad: g
+  - nombre: palta
+    cantidad: 1
+    unidad: unidad
+  - nombre: salsa de soja
+    cantidad: 2
+    unidad: cda
+  - nombre: aceite de sesamo
+    cantidad: 1
+    unidad: cdita
+  - nombre: cebolla de verdeo
+    cantidad: 1
+    unidad: unidad
 steps:
   - Repartir arroz en bowls.
-  - Colocar salmón y palta encima.
-  - Condimentar con soja, sésamo y verdeo.
+  - Colocar salmon y palta encima.
+  - Condimentar con soja, sesamo y verdeo.
 description: "Sabroso y sin cocinar."

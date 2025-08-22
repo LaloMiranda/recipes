@@ -1,16 +1,21 @@
 id: pasta-pesto-express
 title: "Pasta al pesto express"
-tags:
-  - rapido
-  - vegetariano
+tags: [rapido, vegetariano]
 time_minutes: 15
 servings: 2
 ingredients:
-  - 200 g pasta corta
-  - 3 cdas pesto (casero o comprado)
-  - 30 g parmesano rallado
-  - 1 cda aceite de oliva
-  - Sal
+  - nombre: pasta
+    cantidad: 200
+    unidad: g
+  - nombre: pesto
+    cantidad: 3
+    unidad: cda
+  - nombre: parmesano
+    cantidad: 30
+    unidad: g
+  - nombre: aceite de oliva
+    cantidad: 1
+    unidad: cda
 steps:
   - Hervir la pasta en agua con sal hasta punto.
   - Escurrir, mezclar con pesto y aceite.

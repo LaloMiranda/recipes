@@ -1,19 +1,29 @@
 id: gnocchi-bolonesa
 title: "Ñoquis con salsa boloñesa"
-tags:
-  - pasta
-  - carne
+tags: [pasta, carne]
 time_minutes: 55
 servings: 4
 ingredients:
-  - 800 g ñoquis frescos
-  - 400 g carne picada
-  - 1 cebolla y 1 zanahoria picadas
-  - 500 g puré de tomate
-  - 1 cdita orégano
-  - Aceite, sal y pimienta
+  - nombre: ñoqui fresco
+    cantidad: 800
+    unidad: g
+  - nombre: carne picada
+    cantidad: 400
+    unidad: g
+  - nombre: cebolla
+    cantidad: 1
+    unidad: unidad
+  - nombre: zanahoria
+    cantidad: 1
+    unidad: unidad
+  - nombre: pure de tomate
+    cantidad: 500
+    unidad: g
+  - nombre: oregano
+    cantidad: 1
+    unidad: cdita
 steps:
   - Rehogar cebolla y zanahoria; agregar carne y dorar.
-  - Añadir puré de tomate y orégano; cocinar 25–30 min.
+  - Añadir pure de tomate y oregano; cocinar 25–30 min.
   - Hervir ñoquis, mezclar con la salsa y servir.
-description: "Clásico de domingo entre semana."
+description: "Clasico de domingo entre semana."

@@ -1,15 +1,21 @@
 id: omelette-espinaca-queso
 title: "Omelette de espinaca y queso"
-tags:
-  - rapido
-  - sin-gluten
+tags: [rapido, sin-gluten]
 time_minutes: 10
 servings: 1
 ingredients:
-  - 3 huevos
-  - 1 puñado de espinaca fresca
-  - 40 g queso rallado
-  - Sal, pimienta y 1 cdita de manteca
+  - nombre: huevo
+    cantidad: 3
+    unidad: unidad
+  - nombre: espinaca fresca
+    cantidad: 1
+    unidad: puñado
+  - nombre: queso rallado
+    cantidad: 40
+    unidad: g
+  - nombre: manteca
+    cantidad: 1
+    unidad: cdita
 steps:
   - Batir huevos con sal y pimienta.
   - Saltear espinaca 1 min; agregar huevo.

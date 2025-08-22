@@ -1,18 +1,25 @@
 id: quinoa-feta-tomate
 title: "Quinoa con feta y tomate"
-tags:
-  - saludable
-  - vegetariano
+tags: [saludable, vegetariano]
 time_minutes: 20
 servings: 2
 ingredients:
-  - 150 g quinoa enjuagada
-  - 320 ml agua y sal
-  - 1 tomate en cubos
-  - 50 g queso feta
-  - 1 cda aceite de oliva
-  - Pimienta
+  - nombre: quinoa
+    cantidad: 150
+    unidad: g
+  - nombre: agua
+    cantidad: 320
+    unidad: ml
+  - nombre: tomate
+    cantidad: 1
+    unidad: unidad
+  - nombre: queso feta
+    cantidad: 50
+    unidad: g
+  - nombre: aceite de oliva
+    cantidad: 1
+    unidad: cda
 steps:
   - Cocer quinoa 12–15 min y escurrir.
   - Mezclar con tomate, feta, aceite y pimienta.
-description: "Completa en proteínas vegetales."
+description: "Completa en proteinas vegetales."

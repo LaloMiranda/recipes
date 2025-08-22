@@ -1,20 +1,36 @@
 id: ramen-casero-simple
 title: "Ramen casero simple"
-tags:
-  - sopa
-  - fideos
+tags: [sopa, fideos]
 time_minutes: 45
 servings: 2
 ingredients:
-  - 1.2 l caldo de pollo
-  - 2 cdas salsa de soja
-  - 1 cda miso (opcional)
-  - 200 g fideos ramen
-  - 2 huevos (huevo mollet)
-  - Verdeo, champiñones y alga nori a gusto
+  - nombre: caldo de pollo
+    cantidad: 1
+    unidad: l
+  - nombre: salsa de soja
+    cantidad: 2
+    unidad: cda
+  - nombre: miso
+    cantidad: 2
+    unidad: cda
+  - nombre: fideo ramen
+    cantidad: 200
+    unidad: g
+  - nombre: huevo
+    cantidad: 2
+    unidad: unidad
+  - nombre: cebolla de verdeo
+    cantidad: 1
+    unidad: unidad
+  - nombre: champiñon
+    cantidad: 8
+    unidad: unidad
+  - nombre: alga nori
+    cantidad: 1
+    unidad: pizca
 steps:
   - Calentar caldo con soja y miso.
-  - Cocer fideos según paquete.
+  - Cocer fideos segun paquete.
   - Servir fideos en tazones, cubrir con caldo.
   - Agregar huevo mollet y toppings.
-description: "Versión rápida y reconfortante."
+description: "Version rapida y reconfortante."

@@ -1,22 +1,31 @@
 id: estofado-ternera
 title: "Estofado de ternera con papas"
-tags:
-  - carne
-  - olla-larga
+tags: [carne, olla-larga]
 time_minutes: 90
 servings: 4
 ingredients:
-  - 700 g carne de ternera en cubos
-  - 2 papas en cubos
-  - 2 zanahorias en rodajas
-  - 1 cebolla picada
-  - 1 cda concentrado de tomate
-  - 700 ml caldo
-  - Aceite, sal, pimienta y laurel
+  - nombre: carne
+    cantidad: 700
+    unidad: g
+  - nombre: papa
+    cantidad: 2
+    unidad: unidad
+  - nombre: zanahoria
+    cantidad: 2
+    unidad: unidad
+  - nombre: cebolla
+    cantidad: 1
+    unidad: unidad
+  - nombre: caldo
+    cantidad: 700
+    unidad: ml
+  - nombre: laurel
+    cantidad: 1
+    unidad: unidad
 steps:
   - Dorar carne; retirar.
   - Rehogar cebolla y zanahoria; sumar concentrado.
   - Volver carne, cubrir con caldo y laurel.
   - Cocinar tapado 60–70 min.
-  - Agregar papas y cocinar 20 min más.
-description: "Guiso clásico para compartir."
+  - Agregar papas y cocinar 20 min mas.
+description: "Guiso clasico para compartir."

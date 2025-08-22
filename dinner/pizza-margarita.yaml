@@ -1,20 +1,32 @@
 id: pizza-margarita
 title: "Pizza Margarita casera"
-tags:
-  - horno
-  - vegetariano
+tags: [horno, vegetariano]
 time_minutes: 70
 servings: 2
 ingredients:
-  - 300 g harina 000
-  - 6 g levadura seca
-  - 180 ml agua tibia
-  - 1 cda aceite de oliva
-  - 200 g salsa de tomate
-  - 200 g mozzarella
-  - Hojas de albahaca y sal
+  - nombre: harina
+    cantidad: 300
+    unidad: g
+  - nombre: levadura seca
+    cantidad: 6
+    unidad: g
+  - nombre: agua
+    cantidad: 180
+    unidad: ml
+  - nombre: aceite de oliva
+    cantidad: 1
+    unidad: cda
+  - nombre: salsa de tomate
+    cantidad: 200
+    unidad: g
+  - nombre: mozzarella
+    cantidad: 200
+    unidad: g
+  - nombre: hoja de albahaca
+    cantidad: 1
+    unidad: manojo
 steps:
   - Mezclar harina, levadura, agua y aceite; reposar 45 min.
   - Estirar, cubrir con salsa y mozzarella.
   - Hornear a 250°C 10–12 min. Terminar con albahaca.
-description: "Clásico italiano."
+description: "Clasico italiano."

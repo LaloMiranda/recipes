@@ -1,17 +1,33 @@
 id: tacos-rapidos-ternera
-title: "Tacos rápidos de ternera"
-tags:
-  - rapido
-  - carne
+title: "Tacos rapidos de ternera"
+tags: [rapido, carne]
 time_minutes: 20
 servings: 2
 ingredients:
-  - 250 g carne picada de ternera
-  - 1 cdita comino y 1 cdita pimentón
-  - 1/2 cebolla picada
-  - 4 tortillas
-  - Salsa, tomate y lechuga a gusto
-  - Sal y aceite
+  - nombre: carne picada de ternera
+    cantidad: 250
+    unidad: g
+  - nombre: comino
+    cantidad: 1
+    unidad: cdita
+  - nombre: pimenton
+    cantidad: 1
+    unidad: cdita
+  - nombre: cebolla
+    cantidad: 0.5
+    unidad: unidad
+  - nombre: tortilla
+    cantidad: 4
+    unidad: unidad
+  - nombre: salsa
+    cantidad: 1
+    unidad: pizca
+  - nombre: tomate
+    cantidad: 1
+    unidad: pizca
+  - nombre: lechuga
+    cantidad: 1
+    unidad: pizca
 steps:
   - Saltear cebolla y carne con especias; salar.
   - Calentar tortillas.

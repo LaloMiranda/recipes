@@ -4,16 +4,30 @@ tags: [vegetariano, horno]
 time_minutes: 60
 servings: 4
 ingredients:
-  - "12 láminas de pasta para lasaña"
-  - "2 zucchinis"
-  - "1 berenjena"
-  - "2 zanahorias"
-  - "500 g salsa de tomate"
-  - "250 g queso mozzarella"
-  - "Aceite de oliva, sal y pimienta"
+  - nombre: lamina de pasta
+    cantidad: 12
+    unidad: unidad
+  - nombre: zucchini
+    cantidad: 2
+    unidad: unidad
+  - nombre: berenjena
+    cantidad: 1
+    unidad: unidad
+  - nombre: zanahoria
+    cantidad: 2
+    unidad: unidad
+  - nombre: salsa de tomate
+    cantidad: 500
+    unidad: g
+  - nombre: queso mozzarella
+    cantidad: 250
+    unidad: g
+  - nombre: aceite de oliva
+    cantidad: 1
+    unidad: cda
 steps:
-  - "Cortar los vegetales en láminas y saltear."
-  - "Hervir las láminas de pasta."
+  - "Cortar los vegetales en laminas y saltear."
+  - "Hervir las laminas de pasta."
   - "En una fuente, intercalar capas de pasta, vegetales y salsa."
   - "Cubrir con queso y hornear a 180°C por 25 min."
 description: "Cena reconfortante con vegetales frescos y queso fundido."

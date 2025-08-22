@@ -1,19 +1,30 @@
 id: risotto-hongos
 title: "Risotto de hongos"
-tags:
-  - arroz
-  - vegetariano
+tags: [arroz, vegetariano]
 time_minutes: 40
 servings: 3
 ingredients:
-  - 250 g arroz arborio
-  - 200 g hongos en láminas
-  - 1 cebolla picada
-  - 1 diente de ajo
-  - 800 ml caldo caliente
-  - 40 g manteca
-  - 40 g parmesano rallado
-  - Aceite, sal y pimienta
+  - nombre: arroz arborio
+    cantidad: 250
+    unidad: g
+  - nombre: hongo
+    cantidad: 200
+    unidad: g
+  - nombre: cebolla
+    cantidad: 1
+    unidad: unidad
+  - nombre: ajo
+    cantidad: 1
+    unidad: diente
+  - nombre: caldo
+    cantidad: 800
+    unidad: ml
+  - nombre: manteca
+    cantidad: 40
+    unidad: g
+  - nombre: parmesano
+    cantidad: 40
+    unidad: g
 steps:
   - Rehogar cebolla y ajo con aceite.
   - Añadir arroz y nacarar 1 min.
